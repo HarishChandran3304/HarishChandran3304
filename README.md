@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Harish</h1>
-<h3>A tech enthusiast trying to find my niche</h3>
+<h3>A tech enthusiast trying to find his niche</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on [Stututu](https://github.com/HarishChandran3304/stututu)<br>
