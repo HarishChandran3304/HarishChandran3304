@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on [Stututu](https://github.com/HarishChandran3304/stututu)<br>
 👯 I’m looking to collaborate on anything really :)<br>
-🤝 I’m looking for help with Svelte/SvelteKit<br>
+🤝 I’m looking for help with SvelteKit<br>
 🌱 I’m currently learning CP and Web Dev<br>
 📫 Reach out to me on Discord at **Harish#2197**<br>
 
