@@ -59,6 +59,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=HarishChandran3304&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarishChandran3304&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarishChandran3304&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=HarishChandran3304&icon=5&color=12)](https://visitcount.itsvg.in)
